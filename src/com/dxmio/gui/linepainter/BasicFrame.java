@@ -1,6 +1,6 @@
 package com.dxmio.gui.linepainter;
 /**
- * @author Ben Lakey
+ * @author Dreadwail
  */
 
 import java.awt.BorderLayout;
@@ -169,7 +169,7 @@ class BasicFrame extends JFrame implements ActionListener
     // About Box
     protected void onAbout()
     {
-        JOptionPane.showMessageDialog(null, "(c) Ben Lakey Lab3");
+        JOptionPane.showMessageDialog(null, "(c) Dreadwail Lab3");
     }
 
 }

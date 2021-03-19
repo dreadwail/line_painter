@@ -7,7 +7,7 @@ import java.util.*;
 import javax.swing.*;
 
 /**
- * @author Ben Lakey
+ * @author Dreadwail
  */
 
 @SuppressWarnings("serial")

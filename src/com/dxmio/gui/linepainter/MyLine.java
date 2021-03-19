@@ -1,6 +1,6 @@
 package com.dxmio.gui.linepainter;
 /**
- * @author Ben Lakey
+ * @author Dreadwail
  */
 
 import java.awt.BasicStroke;
